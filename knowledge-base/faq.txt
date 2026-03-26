@@ -1,0 +1,11 @@
+Q: What are your business hours?
+A: We are open Monday to Friday, 9 AM to 6 PM IST.
+
+Q: How do I reset my password?
+A: Go to the login page and click Forgot Password. Enter your email and you will receive a reset link within 5 minutes.
+
+Q: Do you offer a free trial?
+A: Yes, we offer a 14-day free trial with full access to all features. No credit card required.
+
+Q: How do I contact support?
+A: You can reach us at support@example.com or use this chat. Response time is under 2 hours on business days.
